@@ -8,18 +8,16 @@ Este repositorio contiene la documentación, guiones y recursos correspondientes
 ## 🎥 Vídeo de la Exposición (Vídeo Único)
 De acuerdo con las directrices de la rúbrica, se ha unificado la exposición en un único vídeo que contiene tanto la **Parte Común (Presentación de la Empresa)** como las **Partes Individuales** de cada integrante.
 
-* 🔴 **Vídeo Completo de la Exposición:** [Ver Exposición en YouTube (Parte Común + Individuales)](https://www.youtube.com/watch?v=VIDEO_PLACEHOLDER)
+* 🔴 **Vídeo Completo de la Exposición:** [Ver Exposición en YouTube (Parte Común + Individuales)](https://youtu.be/rBIQwdBLrjI)
 
 ### ⏱️ Marcas de Tiempo e Índice
-Para facilitar la evaluación por parte del profesorado, a continuación se detallan los accesos directos a cada sección del vídeo:
+Para facilitar la evaluación por parte del profesorado, a continuación se detallan los accesos directos con salto de tiempo directo en YouTube para cada sección:
 
 * **[00:00 - 05:00] Parte Común (Empresa LD Quantum)** — Presentación conjunta de la startup y los proyectos.
-  * *[00:00 - 02:30]* Introducción, TraIA y metodologías (Expone: Samuel García Ruiz)
-  * *[02:30 - 05:00]* Gestión de código, Tripmatch y alineación curricular (Expone: Mario García Luque)
-* **[05:00 - 10:00] Parte Individual — Samuel García Ruiz** — Exposición de sus desarrollos (Supabase, Dashboard de Estadísticas, Email Marketing, Usabilidad de Cartelería y Bugs).
-* **[10:00 - 15:00] Parte Individual — Mario García Luque** — Exposición de sus desarrollos (Metodología Jira, Chatbots de IA en Tripmatch/TraIA, Gestión de Estado React para Portales de Reservas/Cliente).
-
-> ⚠️ *Nota: El enlace anterior contiene un marcador de posición (`VIDEO_PLACEHOLDER`). Asegúrate de editar el README.md con la URL definitiva de vuestro vídeo subido a YouTube.*
+  * [⏱️ 00:00 - 02:30](https://youtu.be/rBIQwdBLrjI?t=0): Introducción, TraIA y metodologías (Expone: Samuel García Ruiz)
+  * [⏱️ 02:30 - 05:00](https://youtu.be/rBIQwdBLrjI?t=150): Gestión de código, Tripmatch y alineación curricular (Expone: Mario García Luque)
+* **[⏱️ 05:00 - 10:00] Parte Individual — Samuel García Ruiz** — [Ver Sección en YouTube](https://youtu.be/rBIQwdBLrjI?t=300): Exposición de sus desarrollos (Supabase, Dashboard de Estadísticas, Email Marketing, Usabilidad de Cartelería y Bugs).
+* **[⏱️ 10:00 - 15:00] Parte Individual — Mario García Luque** — [Ver Sección en YouTube](https://youtu.be/rBIQwdBLrjI?t=600): Exposición de sus desarrollos (Metodología Jira, Chatbots de IA en Tripmatch/TraIA, Gestión de Estado React para Portales de Reservas/Cliente).
 
 ---
 
