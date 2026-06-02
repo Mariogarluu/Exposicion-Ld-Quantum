@@ -116,16 +116,19 @@ A continuación se detallan las responsabilidades e hitos técnicos logrados de 
 
 ## 📅 Temporalización Semanal de Tareas
 
-A continuación se detalla la planificación temporal de las 12 semanas de estancia en la empresa LD Quantum:
+A continuación se detalla la planificación temporal de las 17 semanas de estancia (desde el 21 de enero al 28 de mayo) en la empresa LD Quantum:
 
 | Semana | Actividad / Tareas de Mario García Luque | Actividad / Tareas de Samuel García Ruiz |
 | :---: | :--- | :--- |
-| **Semanas 1-2** | Configuración de JIRA (tablero Kanban, flujos de trabajo, sprints) y estructuración inicial del repositorio de Git. | Análisis del modelo de datos de TraIA en Supabase, familiarización con la base de datos PostgreSQL. |
-| **Semanas 3-4** | Desarrollo e integración inicial del Chatbot en Tripmatch (API OpenAI) y diseño de la estructura del Portal del Viajero. | Creación de esquemas de tablas en Supabase y configuración de políticas RLS para seguridad. |
-| **Semanas 5-6** | Implementación del Portal de Reservas en TraIA. Programación de estados avanzados con React Context y hooks personalizados. | Desarrollo del módulo de estadísticas de TraIA. Rediseño visual del dashboard con gráficos dinámicos y carga asíncrona. |
-| **Semanas 7-8** | Desarrollo del chatbot interno de TraIA para asistencia y navegación del CRM. Soporte en el maquetado del Portal del Cliente. | Desarrollo del constructor de cartelería y folletos (editor de posters). Implementación de deshacer/rehacer y emojis. |
-| **Semanas 9-10** | Planificación, diseño UX/UI e inicio del desarrollo del proyecto Tripmatch (B2C) en Next.js enfocado a SEO. | Diseño y maquetado responsive de las plantillas del módulo de Email Marketing. Integración de componentes en Tripmatch. |
-| **Semanas 11-12** | Refactorización de tipos de TypeScript, pruebas finales de integración, optimización de velocidad de carga y paso a producción. | Resolución de bugs visuales (z-index de menús flotantes, navegación interna) y validación de formularios en Tripmatch. |
+| **Semanas 1-2** | Integración en la oficina presencial. Instalación y configuración de JIRA (tableros Kanban, flujos de trabajo, sprints iniciales). | Configuración del entorno local de desarrollo (React + Vite + Tailwind). Análisis del modelo de datos inicial de TraIA. |
+| **Semanas 3-4** | Definición del flujo de control de versiones Git/GitHub. Diseño de la estructura del Portal del Viajero en TraIA. | Análisis y diseño del modelo relacional de base de datos ampliado en PostgreSQL. |
+| **Semanas 5-6** | Integración con la API de OpenAI y desarrollo inicial de la lógica de conversación del Chatbot de Tripmatch. | Creación de nuevas tablas en Supabase y configuración de las políticas RLS (Row Level Security) iniciales. |
+| **Semanas 7-8** | Desarrollo de las interfaces principales del Portal de Reservas en TraIA (vistas individual y grupal). | Rediseño visual de la interfaz del panel de estadísticas y definición del sistema de gráficos de TraIA. |
+| **Semanas 9-10** | Optimización de la reactividad del Portal del Cliente con Contextos de React y Custom Hooks para evitar parpadeos visuales. | Implementación y optimización de la carga asíncrona no bloqueante de registros históricos de campañas en Supabase. |
+| **Semanas 11-12** | Desarrollo del Chatbot de asistencia del CRM TraIA para soporte al agente de viajes en la navegación del ERP. | Desarrollo del constructor visual de folletos en el módulo de Cartelería de TraIA. |
+| **Semanas 13-14** | Inicio del desarrollo del proyecto Tripmatch (B2C) en Next.js, implementando arquitectura orientada a SEO y SSR. | Implementación de funcionalidad deshacer/rehacer y soporte de emojis en el constructor. Diseño de plantillas de Email Marketing. |
+| **Semanas 15-16** | Pruebas de integración del recomendador de afinidad por IA en Tripmatch. Tipado fuerte de TypeScript en llamadas API. | Solución de bugs visuales de CSS (superposición de z-index en menús) y validación de entrada de datos en registro de usuarios. |
+| **Semana 17** | Pruebas finales de rendimiento, optimizaciones de velocidad y despliegue definitivo de los entornos de producción. | Verificación integral de las políticas RLS en base de datos y validaciones de seguridad previas al cierre de la estancia. |
 
 ---
 
