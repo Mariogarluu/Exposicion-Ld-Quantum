@@ -5,13 +5,21 @@ Este repositorio contiene la documentación, guiones y recursos correspondientes
 
 ---
 
-## 🎥 Enlaces a los Vídeos de Exposición
-De acuerdo con las directrices de la rúbrica, cada participante cuenta con su enlace individual al vídeo de su exposición, el cual incluye la **Parte Común (Contexto de la Empresa)** y la **Parte Individual (Contribuciones Técnicas)**.
+## 🎥 Vídeo de la Exposición (Vídeo Único)
+De acuerdo con las directrices de la rúbrica, se ha unificado la exposición en un único vídeo que contiene tanto la **Parte Común (Presentación de la Empresa)** como las **Partes Individuales** de cada integrante.
 
-* 🔴 **Vídeo de Mario García Luque:** [Ver Exposición en YouTube (Parte Común + Individual)](https://www.youtube.com/watch?v=VIDEO_MARIO_PLACEHOLDER)
-* 🔴 **Vídeo de Samuel García Ruiz:** [Ver Exposición en YouTube (Parte Común + Individual)](https://www.youtube.com/watch?v=VIDEO_SAMUEL_PLACEHOLDER)
+* 🔴 **Vídeo Completo de la Exposición:** [Ver Exposición en YouTube (Parte Común + Individuales)](https://www.youtube.com/watch?v=VIDEO_PLACEHOLDER)
 
-> ⚠️ *Nota: Los enlaces anteriores contienen marcadores de posición (`VIDEO_MARIO_PLACEHOLDER` y `VIDEO_SAMUEL_PLACEHOLDER`). Asegúrate de editarlos con las URLs definitivas de tus vídeos subidos a YouTube.*
+### ⏱️ Marcas de Tiempo e Índice
+Para facilitar la evaluación por parte del profesorado, a continuación se detallan los accesos directos a cada sección del vídeo:
+
+* **[00:00 - 05:00] Parte Común (Empresa LD Quantum)** — Presentación conjunta de la startup y los proyectos.
+  * *[00:00 - 02:30]* Introducción, TraIA y metodologías (Expone: Samuel García Ruiz)
+  * *[02:30 - 05:00]* Gestión de código, Tripmatch y alineación curricular (Expone: Mario García Luque)
+* **[05:00 - 10:00] Parte Individual — Samuel García Ruiz** — Exposición de sus desarrollos (Supabase, Dashboard de Estadísticas, Email Marketing, Usabilidad de Cartelería y Bugs).
+* **[10:00 - 15:00] Parte Individual — Mario García Luque** — Exposición de sus desarrollos (Metodología Jira, Chatbots de IA en Tripmatch/TraIA, Gestión de Estado React para Portales de Reservas/Cliente).
+
+> ⚠️ *Nota: El enlace anterior contiene un marcador de posición (`VIDEO_PLACEHOLDER`). Asegúrate de editar el README.md con la URL definitiva de vuestro vídeo subido a YouTube.*
 
 ---
 
